@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ijjuManjula-11
-- 👀 I’m interested in data science
+- 👀 I’m interested in Data Related Works and WEBDEVLOPMENT
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on real time projects
 - 📫 How to reach me through email ijjumanjula@gmail.com
